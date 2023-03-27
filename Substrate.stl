@@ -1,0 +1,86 @@
+solid substrate:substrate
+  facet normal 1.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 1.550000e+00 5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 1.250000e+02
+      vertex 1.550000e+00 -5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal 1.000000e+00 2.741057e+17 3.731493e-08
+    outer loop
+      vertex 1.550000e+00 -5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 4.591354e-41 1.079000e-43
+    outer loop
+      vertex 1.550000e+00 -5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 -1.250000e+02
+      vertex 1.550000e+00 5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+  facet normal -1.000000e+00 4.591354e-41 9.388700e-44
+    outer loop
+      vertex 1.550000e+00 5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 0.000000e+00 -5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 -1.250000e+02
+      vertex 1.550000e+00 -5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 2.741057e+17 3.731493e-08
+    outer loop
+      vertex 1.550000e+00 -5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 -1.250000e+02
+      vertex 1.550000e+00 -5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 4.591354e-41 1.064987e-43
+    outer loop
+      vertex 0.000000e+00 5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 0.000000e+00 -5.000000e+01 1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 -5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 4.591354e-41 1.079000e-43
+    outer loop
+      vertex 1.550000e+00 5.000000e+01 1.250000e+02
+      vertex 1.550000e+00 5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 0.000000e+00 0.000000e+00
+    outer loop
+      vertex 0.000000e+00 5.000000e+01 1.250000e+02
+      vertex 1.550000e+00 5.000000e+01 -1.250000e+02
+      vertex 0.000000e+00 5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 4.591354e-41 1.093013e-43
+    outer loop
+      vertex 1.550000e+00 -5.000000e+01 1.250000e+02
+      vertex 1.550000e+00 -5.000000e+01 -1.250000e+02
+      vertex 1.550000e+00 5.000000e+01 1.250000e+02
+    endloop
+  endfacet
+  facet normal -0.000000e+00 4.591214e-41 0.000000e+00
+    outer loop
+      vertex 1.550000e+00 5.000000e+01 1.250000e+02
+      vertex 1.550000e+00 -5.000000e+01 -1.250000e+02
+      vertex 1.550000e+00 5.000000e+01 -1.250000e+02
+    endloop
+  endfacet
+endsolid substrate:substrate
